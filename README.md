@@ -197,7 +197,6 @@ public class Game {
 ##Console Output
 
 ```
-
 **Round 1**
 What integer is 1 + 1?
 2
@@ -225,7 +224,7 @@ Please enter integers only.
 Your answer was correct.
 Your final score is: 11110
 
-```
+-----------------------------------------------------------
 
 **Round 1**
 What integer is 5 + 3?
@@ -259,7 +258,6 @@ The correct answer was: 9
 difficulty is at the lowest level
 difficulty is now: 10
 Your final score is: 0
-
 ```
 
 ##Command Prompt
