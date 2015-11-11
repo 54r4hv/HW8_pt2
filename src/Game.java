@@ -177,12 +177,6 @@ public class Game {
 
     		System.out.println("Your final score is: " + score);
 
-    		
-    		
-    		
-    		
-    		
-    		
          
          
     } 
